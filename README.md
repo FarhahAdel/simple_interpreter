@@ -13,6 +13,7 @@ k=10.5+(z-2.5)/(x+y)
 ```
 
 **Output**
+
 *Sorted by variable name*
 ```
 k=11.5
